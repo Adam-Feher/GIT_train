@@ -7,6 +7,6 @@ class should_not_be_this_fancy:
 
     def joke(self):
         print("WHY DOES PETIE DOES NOT COME DOWN TO PLAY? HE HAS NO LEGS HAHAHAHAH")
-    
+
     def shout(self):
-        print("LOST MY VOICE KBYE")
+        print("WHAWHWAHWHAAHWA")
