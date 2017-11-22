@@ -3,7 +3,7 @@ class should_not_be_this_fancy:
         return a + b
 
     def introduce(self):
-        print("I GITTY HI!!")
+        print("HELLO I AM GITTY THE RETARD!! :D :P :D")
 
     def joke(self):
         print("WHY DOES PETIE DOES NOT COME DOWN TO PLAY? HE HAS NO LEGS HAHAHAHAH")
